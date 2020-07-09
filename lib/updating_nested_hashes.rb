@@ -61,6 +61,10 @@ def add_characters
    #   - The first hash should have the :name key set to "Prince Escalus"
    #   - The second hash should have the :name key set to "Apothecary"
    # Code your solution here:
+      :additional_characters => [
+        {name: "Price Escalus"},
+        {name: "Apothecary"}
+      ]
 
 
 
